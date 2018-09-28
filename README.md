@@ -1,6 +1,6 @@
 # 개발환경
 * IDE : ECLIPSE
-* JAVA
+* JAVA Swing
 * ORACLE XE
 
 # 개발목표
